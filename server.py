@@ -1,3 +1,4 @@
+# Server Code
 """ Script for TCP chat server - relays messages to all clients """
 
 from socket import AF_INET, socket, SOCK_STREAM
