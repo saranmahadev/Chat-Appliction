@@ -1,3 +1,4 @@
+# Client Code
 """ Script for Tkinter GUI chat client. """
 
 import tkinter
